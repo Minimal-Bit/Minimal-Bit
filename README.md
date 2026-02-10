@@ -6,7 +6,7 @@
 -If you would like to connect you can find me on 
   Linkedin: https://www.linkedin.com/in/michaelsurridge/
   Email: mike.surridge01@gmail.com
- -See ya around! 
+ 
 
 <!---
 Minimal-Bit/Minimal-Bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
